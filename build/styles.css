@@ -1,0 +1,9 @@
+html,
+body {
+  background: #f938ab;
+}
+#content {
+  width: 300px;
+  height: 200px;
+  background: url(09725211ebfa0dcf9f8ba74498787306.jpg) no-repeat;
+}
